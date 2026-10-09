@@ -1,0 +1,19 @@
+ID,Title,Description,Priority,Status,Due Date,Project Name
+6,Client feedback,Incorporate feedback received from the client,High,Pending,2026-10-01,
+12,Client feedback,Incorporate feedback received from the client,High,Pending,2026-10-01,
+18,Client feedback,Incorporate feedback received from the client,High,Pending,2026-10-01,
+1,Finish project report,Complete the final report for the project,High,Pending,2026-10-30,History paper
+7,Finish project report,Complete the final report for the project,High,Pending,2026-10-30,History paper
+13,Finish project report,Complete the final report for the project,High,Pending,2026-10-30,History paper
+5,Update documentation,Review and update project documentation,Low,Pending,2026-10-10,Programming assignment
+11,Update documentation,Review and update project documentation,Low,Pending,2026-10-10,Programming assignment
+17,Update documentation,Review and update project documentation,Low,Pending,2026-10-10,Programming assignment
+3,Team meeting,Discuss project progress with the team,Low,Pending,2026-10-25,Programming assignment
+9,Team meeting,Discuss project progress with the team,Low,Pending,2026-10-25,Programming assignment
+15,Team meeting,Discuss project progress with the team,Low,Pending,2026-10-25,Programming assignment
+2,Prepare presentation,Create slides for the upcoming presentation,Medium,Pending,2026-10-05,History paper
+8,Prepare presentation,Create slides for the upcoming presentation,Medium,Pending,2026-10-05,History paper
+14,Prepare presentation,Create slides for the upcoming presentation,Medium,Pending,2026-10-05,History paper
+4,Code review,Review code submitted by team members,Medium,Done,2026-10-28,Programming assignment
+10,Code review,Review code submitted by team members,Medium,Done,2026-10-28,Programming assignment
+16,Code review,Review code submitted by team members,Medium,Done,2026-10-28,Programming assignment
